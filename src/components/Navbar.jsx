@@ -75,7 +75,7 @@ export default function Navbar({ mode, setMode }) {
                   color="#000"
                   fontFamily="Oswald"
                 >
-                  {items.length}
+                  {items ? items.length : 2}
                 </Typography>
               </IconButton>
             </Box>

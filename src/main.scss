@@ -10,10 +10,10 @@
 .css-1wlk0hk-MuiAvatar-root {
   width: 300px !important;
   height: 300px !important;
-  padding: 50px;
-  overflow: hidden;
-  margin-bottom: 0 !important;
+  padding: 0 30px;
   .css-1pqm26d-MuiAvatar-img {
+    width: 100% !important;
+    height: 100% !important;
     object-fit: contain !important;
   }
 }
